@@ -1,5 +1,9 @@
-# ds201_capstone1
-Repo for Capstone Deliverable 1
-Add more here later
+## ds201_capstone1
+<table align="left">
+  <td>
+    <a href="https://colab.research.google.com/github/abbynam/ds201_capstone1/blob/main/Capstone1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+   <td>
+  </table>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/abbynam/ds201_capstone1/blob/main/Capstone1.ipynb)
+<br><br></br>
