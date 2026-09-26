@@ -125,7 +125,7 @@ The distribution of traditional HPIs is more spread out than manufactured HPIs f
 
 Based on this visualization showing the changes in this specific subset of HPIs over time, the U.S. traditional, all-transactions, quarterly HPIs have generally increased since 1975. There is a noticeable decline beginning around 2007-2009, and more rapid growth that begins around 2019-2020. Non-seasonally adjusted HPI was chosen because it provides more observations in the dataset than seasonally adjusted HPI values, which contain substantially more missing data and are primarily available for only state-level HPIs.
 
-### 3. Expanding Investment Knowledge
+## 3. Expanding Investment Knowledge
 
 * Why would this dataset be useful?
 
