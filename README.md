@@ -1,4 +1,4 @@
-# DS201 Capstone 1: Housing Price Index Analysis
+# ds201_capstone1
 
 **Authors:** Abby and Lilly
 
